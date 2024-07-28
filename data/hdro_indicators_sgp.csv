@@ -1,0 +1,896 @@
+country_code,country_name,indicator_id,indicator_name,index_id,index_name,value,year
+#country+code,#country+name,#indicator+id,#indicator+name,#index+id,#index+name,#indicator+value+num,#date+year
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.918,1990
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.996,1991
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.618,1992
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.418,1993
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,6.755,1994
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.148,1995
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,6.421,1996
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.225,1997
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,6.784,1998
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.122,1999
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.863,2000
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.337,2001
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,8.022,2002
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.096,2003
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,6.903,2004
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,7.118,2005
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,6.879,2006
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,6.411,2007
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,6.085,2008
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.353,2009
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,5.02,2010
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.941,2011
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,4.7,2012
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,3.994,2013
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,3.58,2014
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,3.09,2015
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,2.393,2016
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,2.275,2017
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,2.348,2018
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,2.512,2019
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,2.599,2020
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,2.623,2021
+SGP,Singapore,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,2.462,2022
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,14.405,1990
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,14.175,1991
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,14.696,1992
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,14.895,1993
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,17.474,1994
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.441,1995
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,13.147,1996
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,15.087,1997
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,12.263,1998
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,12.404,1999
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.939,2000
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.938,2001
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.275,2002
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,11.697,2003
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.973,2004
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.572,2005
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.430,2006
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.601,2007
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.653,2008
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.031,2009
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.337,2010
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.441,2011
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.423,2012
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.023,2013
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.355,2014
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,10.960,2015
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.054,2016
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.942,2017
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.605,2018
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.758,2019
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.275,2020
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.397,2021
+SGP,Singapore,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.397,2022
+SGP,Singapore,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,13.068,2010
+SGP,Singapore,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,13.493,2011
+SGP,Singapore,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,13.510,2012
+SGP,Singapore,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,13.390,2013
+SGP,Singapore,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,13.362,2014
+SGP,Singapore,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,13.096,2015
+SGP,Singapore,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,13.182,2016
+SGP,Singapore,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,13.180,2017
+SGP,Singapore,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,12.812,2018
+SGP,Singapore,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,12.664,2019
+SGP,Singapore,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,12.576,2020
+SGP,Singapore,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,12.534,2021
+SGP,Singapore,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,12.548,2022
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,20.128,1990
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,19.162,1991
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,22.739,1992
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,25.093,1993
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,27.027,1994
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,20.097,1995
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,22.195,1996
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,23.900,1997
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,35.816,1998
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,19.555,1999
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,20.742,2000
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,24.913,2001
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,19.037,2002
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,27.563,2003
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,19.300,2004
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.857,2005
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.647,2006
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,15.784,2007
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,20,2008
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.912,2009
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,18.567,2010
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,18.939,2011
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,22.570,2012
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,23.441,2013
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,22.532,2014
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,22.353,2015
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,20.277,2016
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,19.083,2017
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,19.958,2018
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,17.143,2019
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,19.851,2020
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,21.550,2021
+SGP,Singapore,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,21.496,2022
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.875,1990
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,14.940,1991
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.004,1992
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.069,1993
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.134,1994
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.200,1995
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.265,1996
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.331,1997
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.398,1998
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.464,1999
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.531,2000
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.598,2001
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.666,2002
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.733,2003
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.801,2004
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.870,2005
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,15.938,2006
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.007,2007
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.076,2008
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.146,2009
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.216,2010
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.286,2011
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.356,2012
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.427,2013
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.498,2014
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.568,2015
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.639,2016
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.676,2017
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.742,2018
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.741,2019
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.787,2020
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.903,2021
+SGP,Singapore,eys,Expected Years of Schooling (years),HDI,Human Development Index,16.903,2022
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.015,1990
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.079,1991
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.145,1992
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.210,1993
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.276,1994
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.342,1995
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.408,1996
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.475,1997
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.542,1998
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.609,1999
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.676,2000
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.744,2001
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.812,2002
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.881,2003
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,15.949,2004
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.018,2005
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.088,2006
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.157,2007
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.227,2008
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.297,2009
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.368,2010
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.438,2011
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.509,2012
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.581,2013
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.652,2014
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.724,2015
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.795,2016
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.875,2017
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.933,2018
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.918,2019
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,16.922,2020
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.034,2021
+SGP,Singapore,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,17.034,2022
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,13.954,1990
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.046,1991
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.139,1992
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.232,1993
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.326,1994
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.421,1995
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.516,1996
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.612,1997
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.708,1998
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.805,1999
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,14.903,2000
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.001,2001
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.100,2002
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.200,2003
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.300,2004
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.401,2005
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.503,2006
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.605,2007
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.708,2008
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.812,2009
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,15.916,2010
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.021,2011
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.127,2012
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.233,2013
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.340,2014
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.446,2015
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.552,2016
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.539,2017
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.609,2018
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.624,2019
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.706,2020
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.811,2021
+SGP,Singapore,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,16.811,2022
+SGP,Singapore,gdi_group,GDI Group,GDI,Gender Development Index,1,2022
+SGP,Singapore,gii_rank,GII Rank,GII,Gender Inequality Index,8,2022
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,21415.892,1990
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,23932.354,1991
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,25311.722,1992
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,26910.300,1993
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,30296.492,1994
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,31645.255,1995
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,34356.777,1996
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,37429.641,1997
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,34725.698,1998
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,36198.953,1999
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,38091.435,2000
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,37456.647,2001
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,37580.473,2002
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,39008.677,2003
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,41287.435,2004
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,44318.580,2005
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,49528.427,2006
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,51730.148,2007
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,52453.699,2008
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,50204.573,2009
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,59391.145,2010
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,69229.252,2011
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,70024.811,2012
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,71956.400,2013
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,75164.193,2014
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,76063.916,2015
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,78370.650,2016
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,79977.726,2017
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,77063.685,2018
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,79087.624,2019
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,75777.204,2020
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,82518.168,2021
+SGP,Singapore,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,76610.868,2022
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,55411.148,1990
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,55014.279,1991
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,57298.745,1992
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,60243.562,1993
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,65677.973,1994
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,68699.342,1995
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,68763.712,1996
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,73891.109,1997
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,70571.618,1998
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,71894.032,1999
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,75227.523,2000
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,72821.951,2001
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,74083.636,2002
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,75686.654,2003
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,79153.629,2004
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,83330.372,2005
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,89258.294,2006
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,93674.357,2007
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,88640.525,2008
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,83888.571,2009
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,96270.840,2010
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,89215.181,2011
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,90648.767,2012
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,91876.736,2013
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,95661.124,2014
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,91554.516,2015
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,94600.168,2016
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,96668.080,2017
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,95354.277,2018
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,93182.618,2019
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,86589.735,2020
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,93990.435,2021
+SGP,Singapore,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,99844.236,2022
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,38458.131,1990
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,39533.66,1991
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,41403.026,1992
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,43713.643,1993
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,48167.337,1994
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,50398.975,1995
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,51809.939,1996
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,55967.497,1997
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,52990.242,1998
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,54424.069,1999
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,57066.754,2000
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,55496.765,2001
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,56146.603,2002
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,57608.966,2003
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,60433.088,2004
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,64037.045,2005
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,69705.849,2006
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,73177.027,2007
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,71072.470,2008
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,67635.462,2009
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,78557.987,2010
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,79637.160,2011
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,80774.764,2012
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,82348.590,2013
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,85866.020,2014
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,84156.782,2015
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,86851.852,2016
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,88700.774,2017
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,86623.974,2018
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,86455.565,2019
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,81430.604,2020
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,88518.783,2021
+SGP,Singapore,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,88761.146,2022
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.752,1990
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.764,1991
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.771,1992
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.778,1993
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.787,1994
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.793,1995
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.804,1996
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.816,1997
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.821,1998
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.829,1999
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.839,2000
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.843,2001
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.849,2002
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.856,2003
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.865,2004
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.876,2005
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.882,2006
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.887,2007
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.892,2008
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.891,2009
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.905,2010
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.915,2011
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.918,2012
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.922,2013
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.927,2014
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.930,2015
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.932,2016
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.934,2017
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.938,2018
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.941,2019
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.939,2020
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.939,2021
+SGP,Singapore,hdi_f,HDI female,GDI,Gender Development Index,0.945,2022
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.789,1990
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.797,1991
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.806,1992
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.816,1993
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.827,1994
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.835,1995
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.842,1996
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.853,1997
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.859,1998
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.867,1999
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.876,2000
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.880,2001
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.885,2002
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.890,2003
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.896,2004
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.902,2005
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.904,2006
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.907,2007
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.914,2008
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.917,2009
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.924,2010
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.928,2011
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.930,2012
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.935,2013
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.937,2014
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.940,2015
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.943,2016
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.943,2017
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.947,2018
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.950,2019
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.946,2020
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.947,2021
+SGP,Singapore,hdi_m,HDI male,GDI,Gender Development Index,0.954,2022
+SGP,Singapore,hdi_rank,HDI Rank,HDI,Human Development Index,9,2022
+SGP,Singapore,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,12.263,2010
+SGP,Singapore,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,12.215,2011
+SGP,Singapore,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,11.884,2012
+SGP,Singapore,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,11.559,2013
+SGP,Singapore,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,11.496,2014
+SGP,Singapore,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,10.717,2015
+SGP,Singapore,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,11.000,2016
+SGP,Singapore,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,11.041,2017
+SGP,Singapore,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,10.007,2018
+SGP,Singapore,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,9.652,2019
+SGP,Singapore,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,9.406,2020
+SGP,Singapore,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,9.406,2021
+SGP,Singapore,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,9.406,2022
+SGP,Singapore,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,24.158,2010
+SGP,Singapore,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.513,2011
+SGP,Singapore,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.935,2012
+SGP,Singapore,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.935,2013
+SGP,Singapore,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.935,2014
+SGP,Singapore,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.935,2015
+SGP,Singapore,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.935,2016
+SGP,Singapore,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.935,2017
+SGP,Singapore,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.935,2018
+SGP,Singapore,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.935,2019
+SGP,Singapore,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.935,2020
+SGP,Singapore,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.935,2021
+SGP,Singapore,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.935,2022
+SGP,Singapore,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.782,2010
+SGP,Singapore,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.750,2011
+SGP,Singapore,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.713,2012
+SGP,Singapore,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.676,2013
+SGP,Singapore,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.656,2014
+SGP,Singapore,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.637,2015
+SGP,Singapore,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.609,2016
+SGP,Singapore,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.562,2017
+SGP,Singapore,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.494,2018
+SGP,Singapore,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.404,2019
+SGP,Singapore,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.388,2020
+SGP,Singapore,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.261,2021
+SGP,Singapore,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,2.302,2022
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,74.944,1990
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.329,1991
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.601,1992
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.802,1993
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.885,1994
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,75.976,1995
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,76.536,1996
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.228,1997
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,77.987,1998
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,78.47,1999
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.069,2000
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.186,2001
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.302,2002
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.398,2003
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,79.765,2004
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.354,2005
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.71,2006
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,80.958,2007
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.17,2008
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.456,2009
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.691,2010
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,81.975,2011
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.243,2012
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.516,2013
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.652,2014
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.826,2015
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,83,2016
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.224,2017
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.458,2018
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,83.758,2019
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.861,2020
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,82.754,2021
+SGP,Singapore,le,Life Expectancy at Birth (years),HDI,Human Development Index,84.133,2022
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,77.566,1990
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.172,1991
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.454,1992
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.635,1993
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.592,1994
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,78.648,1995
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,79.24,1996
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,79.929,1997
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,80.681,1998
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.046,1999
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.628,2000
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,81.795,2001
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.03,2002
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.28,2003
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,82.637,2004
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.244,2005
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.485,2006
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.644,2007
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.688,2008
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.839,2009
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,83.955,2010
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.222,2011
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.461,2012
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.634,2013
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.786,2014
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.975,2015
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.181,2016
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.407,2017
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.623,2018
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.909,2019
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,85.322,2020
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,84.927,2021
+SGP,Singapore,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,86.295,2022
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.418,1990
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.621,1991
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,72.886,1992
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.104,1993
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.292,1994
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.42,1995
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,73.943,1996
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,74.613,1997
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.352,1998
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,75.917,1999
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.516,2000
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.596,2001
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.611,2002
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.578,2003
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,76.929,2004
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.463,2005
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,77.894,2006
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.215,2007
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.575,2008
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,78.982,2009
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.335,2010
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.641,2011
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,79.941,2012
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.307,2013
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.439,2014
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.604,2015
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.758,2016
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.994,2017
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,81.257,2018
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,81.581,2019
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.468,2020
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,80.636,2021
+SGP,Singapore,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,81.981,2022
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,37.88,1990
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,37.88,1991
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,42.53,1992
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,41.37,1993
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,41.69,1994
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,40.1,1995
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,41,1996
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,40.07,1997
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,39.1,1998
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.69,1999
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.19,2000
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.59,2001
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.59,2002
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.91,2003
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,51.3,2004
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52,2005
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,54.25,2006
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.08,2007
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.61,2008
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.16,2009
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,56.46,2010
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,56.97,2011
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,57.69,2012
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,58.1,2013
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,58.64,2014
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,60.42,2015
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,60.38,2016
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.82,2017
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,60.2,2018
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,61.12,2019
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,61.17,2020
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,64.17,2021
+SGP,Singapore,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,63.37,2022
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,61.24,1990
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,61.24,1991
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.77,1992
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.49,1993
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.66,1994
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.72,1995
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.45,1996
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,66.09,1997
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.19,1998
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.81,1999
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.58,2000
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.69,2001
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.2,2002
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.09,2003
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.69,2004
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.4,2005
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.19,2006
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.47,2007
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.07,2008
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.26,2009
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.5,2010
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.64,2011
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.98,2012
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.8,2013
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.92,2014
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.71,2015
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.18,2016
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.98,2017
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.65,2018
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.39,2019
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.38,2020
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.16,2021
+SGP,Singapore,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77,2022
+SGP,Singapore,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,13.464,2010
+SGP,Singapore,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,13.961,2011
+SGP,Singapore,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,14.039,2012
+SGP,Singapore,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,13.978,2013
+SGP,Singapore,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,13.948,2014
+SGP,Singapore,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,13.690,2015
+SGP,Singapore,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,13.767,2016
+SGP,Singapore,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,13.753,2017
+SGP,Singapore,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,13.376,2018
+SGP,Singapore,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,13.228,2019
+SGP,Singapore,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,13.163,2020
+SGP,Singapore,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,13.057,2021
+SGP,Singapore,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,13.066,2022
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,30.293,1990
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,28.025,1991
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,37.152,1992
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,43.147,1993
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,44.154,1994
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,35.506,1995
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,38.352,1996
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,39.458,1997
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,78.236,1998
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,32.372,1999
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,36.590,2000
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,48.203,2001
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,32.740,2002
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,56.027,2003
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,34.155,2004
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,32.760,2005
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,32.465,2006
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,32.177,2007
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,38.557,2008
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,33.979,2009
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,37.116,2010
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,41.553,2011
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,46.104,2012
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,47.557,2013
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,46.133,2014
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,42.738,2015
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,44.031,2016
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,40.993,2017
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,40.313,2018
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,37.557,2019
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,38.761,2020
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,43.479,2021
+SGP,Singapore,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,43.151,2022
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,13.777,1990
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,13.594,1991
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,14.011,1992
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,14.352,1993
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,15.697,1994
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,15.199,1995
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,17.043,1996
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,15.401,1997
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,15.326,1998
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,15.823,1999
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,15.114,2000
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,15.703,2001
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,14.088,2002
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,14.346,2003
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,13.827,2004
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,12.725,2005
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,11.726,2006
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,11.262,2007
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,10.828,2008
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.369,2009
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.312,2010
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.560,2011
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,8.353,2012
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.718,2013
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.888,2014
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.553,2015
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.054,2016
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.011,2017
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.671,2018
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,6.247,2019
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.453,2020
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.453,2021
+SGP,Singapore,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,7.453,2022
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.363,1990
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.661,1991
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.959,1992
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.256,1993
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.554,1994
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.852,1995
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.123,1996
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.393,1997
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.664,1998
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,8.935,1999
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.205,2000
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.476,2001
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,9.747,2002
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.017,2003
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.288,2004
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.559,2005
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.438,2006
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.538,2007
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.800,2008
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,10.811,2009
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.181,2010
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.248,2011
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.253,2012
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.378,2013
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.443,2014
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.571,2015
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.588,2016
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.546,2017
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.743,2018
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.850,2019
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.925,2020
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.925,2021
+SGP,Singapore,mys,Mean Years of Schooling (years),HDI,Human Development Index,11.925,2022
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.085,1990
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.296,1991
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.506,1992
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.717,1993
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.927,1994
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.138,1995
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.432,1996
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,7.727,1997
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.022,1998
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.317,1999
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.611,2000
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,8.906,2001
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.201,2002
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.496,2003
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.790,2004
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.085,2005
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,9.996,2006
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.117,2007
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.374,2008
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.385,2009
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.766,2010
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.830,2011
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.849,2012
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,10.974,2013
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.065,2014
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.186,2015
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.195,2016
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.166,2017
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.346,2018
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.521,2019
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.627,2020
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.627,2021
+SGP,Singapore,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,11.627,2022
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.665,1990
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.050,1991
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.435,1992
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.820,1993
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.205,1994
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.591,1995
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.838,1996
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.085,1997
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.332,1998
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.579,1999
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,9.827,2000
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.074,2001
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.321,2002
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.568,2003
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.815,2004
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.063,2005
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.908,2006
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,10.992,2007
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.257,2008
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.272,2009
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.625,2010
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.699,2011
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.693,2012
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.816,2013
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.853,2014
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.990,2015
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.018,2016
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,11.960,2017
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.175,2018
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.211,2019
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.255,2020
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.255,2021
+SGP,Singapore,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,12.255,2022
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.762,1990
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.762,1991
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.762,1992
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.762,1993
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.762,1994
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.762,1995
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.762,1996
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.762,1997
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.762,1998
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.301,1999
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.301,2000
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,11.765,2001
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,11.765,2002
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,15.957,2003
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,15.957,2004
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,15.957,2005
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,21.176,2006
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,24.468,2007
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,24.468,2008
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,23.404,2009
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,23.404,2010
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,22.222,2011
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,24.242,2012
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,24.242,2013
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.253,2014
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,23.913,2015
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,23.762,2016
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,23,2017
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,23,2018
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,23,2019
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,29.474,2020
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,29.808,2021
+SGP,Singapore,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,29.126,2022
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.238,1990
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.238,1991
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.238,1992
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.238,1993
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.238,1994
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.238,1995
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.238,1996
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.238,1997
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.238,1998
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.699,1999
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.699,2000
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,88.235,2001
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,88.235,2002
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,84.043,2003
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,84.043,2004
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,84.043,2005
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,78.824,2006
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,75.532,2007
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,75.532,2008
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,76.596,2009
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,76.596,2010
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,77.778,2011
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,75.758,2012
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,75.758,2013
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.747,2014
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,76.087,2015
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,76.238,2016
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,77,2017
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,77,2018
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,77,2019
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,70.526,2020
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,70.192,2021
+SGP,Singapore,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,70.874,2022
+SGP,Singapore,rankdiff_hdi_phdi,Difference from HDI rank,PHDI,Planetary pressures–adjusted Human Development Index,-38,2022
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,34.138,1990
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,37.875,1991
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,41.613,1992
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,45.350,1993
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,49.088,1994
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,52.825,1995
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,54.205,1996
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,55.585,1997
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,56.966,1998
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,58.346,1999
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,59.726,2000
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,61.106,2001
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,62.486,2002
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,63.866,2003
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,65.246,2004
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,66.627,2005
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,68.028,2006
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,69.220,2007
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,71.312,2008
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,71.063,2009
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,72.729,2010
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,73.166,2011
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,74.086,2012
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,74.768,2013
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,75.524,2014
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,76.145,2015
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,76.268,2016
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,76.830,2017
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,78.091,2018
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,79.419,2019
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,80.464,2020
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,80.464,2021
+SGP,Singapore,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,80.464,2022
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,37.976,1990
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,43.083,1991
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,48.190,1992
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,53.297,1993
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,58.404,1994
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,63.510,1995
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,64.678,1996
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,65.845,1997
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,67.012,1998
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,68.179,1999
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,69.347,2000
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,70.514,2001
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,71.681,2002
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,72.848,2003
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,74.016,2004
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,75.183,2005
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,76.003,2006
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,77.106,2007
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,78.859,2008
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,78.836,2009
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,79.923,2010
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,80.526,2011
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,80.986,2012
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,81.805,2013
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,81.916,2014
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,82.883,2015
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,83.262,2016
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,83.463,2017
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,85.054,2018
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,85.199,2019
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,85.932,2020
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,85.932,2021
+SGP,Singapore,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,85.932,2022

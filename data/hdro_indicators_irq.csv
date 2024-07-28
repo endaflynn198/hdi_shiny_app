@@ -1,0 +1,874 @@
+country_code,country_name,indicator_id,indicator_name,index_id,index_name,value,year
+#country+code,#country+name,#indicator+id,#indicator+name,#index+id,#index+name,#indicator+value+num,#date+year
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,71.342,1990
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,72.709,1991
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,71.973,1992
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,72.684,1993
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,71.735,1994
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,69.697,1995
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,66.704,1996
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,65.043,1997
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,63.307,1998
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,62.814,1999
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,62.309,2000
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,60.029,2001
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,61.12,2002
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,64.436,2003
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,70.417,2004
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,73.547,2005
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,77.653,2006
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,77.966,2007
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,77.017,2008
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,79.51,2009
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,83.902,2010
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,87.614,2011
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,85.9,2012
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,83.891,2013
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,81.138,2014
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,75.916,2015
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,71.676,2016
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,68.118,2017
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,66.424,2018
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,65.122,2019
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,63.664,2020
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,62.192,2021
+IRQ,Iraq,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,61.151,2022
+IRQ,Iraq,assets,Assets (%),MPI,Multidimensional Poverty Index,0.295,2018
+IRQ,Iraq,child_mortality,Child mortality (%),MPI,Multidimensional Poverty Index,7.375,2018
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.778,1990
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.532,1991
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.203,1992
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.272,1993
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.775,1994
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.804,1995
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.453,1996
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.411,1997
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.507,1998
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.444,1999
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.381,2000
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.789,2001
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.677,2002
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.741,2003
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.049,2004
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.973,2005
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.410,2006
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.131,2007
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.215,2008
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.461,2009
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.631,2010
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.797,2011
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.940,2012
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.975,2013
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.729,2014
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.760,2015
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.106,2016
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.466,2017
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.527,2018
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.562,2019
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.756,2020
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.873,2021
+IRQ,Iraq,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.873,2022
+IRQ,Iraq,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,24.851,2011
+IRQ,Iraq,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,24.694,2012
+IRQ,Iraq,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,24.625,2013
+IRQ,Iraq,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,24.382,2014
+IRQ,Iraq,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,24.235,2015
+IRQ,Iraq,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,24.238,2016
+IRQ,Iraq,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,23.982,2017
+IRQ,Iraq,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,23.436,2018
+IRQ,Iraq,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,23.356,2019
+IRQ,Iraq,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,23.211,2020
+IRQ,Iraq,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,23.068,2021
+IRQ,Iraq,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,22.620,2022
+IRQ,Iraq,cooking_fuel,Cooking fuel (%),MPI,Multidimensional Poverty Index,0.276,2018
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.616,1990
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.972,1991
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.781,1992
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.008,1993
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.008,1994
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.876,1995
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.896,1996
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.279,1997
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.546,1998
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.159,1999
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.945,2000
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,5.102,2001
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.592,2002
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.594,2003
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,5.442,2004
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,5.753,2005
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.569,2006
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,3.691,2007
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.575,2008
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,5.627,2009
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,5.405,2010
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,5.808,2011
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.969,2012
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,5.247,2013
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.608,2014
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.421,2015
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.236,2016
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.348,2017
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.458,2018
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.720,2019
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.539,2020
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.348,2021
+IRQ,Iraq,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,4.458,2022
+IRQ,Iraq,drinking_water,Drinking water (%),MPI,Multidimensional Poverty Index,0.701,2018
+IRQ,Iraq,electricity,Electricity (%),MPI,Multidimensional Poverty Index,0.086,2018
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.300,1990
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.405,1991
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.511,1992
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.619,1993
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.728,1994
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.839,1995
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.951,1996
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.065,1997
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.181,1998
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.298,1999
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.340,2000
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.612,2001
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.884,2002
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.156,2003
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.427,2004
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.659,2005
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.891,2006
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.122,2007
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.354,2008
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.586,2009
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.817,2010
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.049,2011
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.178,2012
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.308,2013
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.437,2014
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.566,2015
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.695,2016
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.825,2017
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.954,2018
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.088,2019
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.223,2020
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.223,2021
+IRQ,Iraq,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.223,2022
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,5.056,1990
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,5.245,1991
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,5.440,1992
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,5.643,1993
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,5.853,1994
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.072,1995
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.298,1996
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.533,1997
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.776,1998
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.029,1999
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.011,2000
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.268,2001
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.525,2002
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.782,2003
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.039,2004
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.332,2005
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.625,2006
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.918,2007
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.211,2008
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.504,2009
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.797,2010
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.091,2011
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.261,2012
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.431,2013
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.602,2014
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.772,2015
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.943,2016
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,11.113,2017
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,11.284,2018
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,11.462,2019
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,11.644,2020
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,11.644,2021
+IRQ,Iraq,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,11.644,2022
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.731,1990
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.815,1991
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.900,1992
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.986,1993
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.072,1994
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.160,1995
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.248,1996
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.337,1997
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.427,1998
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.518,1999
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.618,2000
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.904,2001
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.191,2002
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.477,2003
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.764,2004
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.933,2005
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.103,2006
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.272,2007
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.442,2008
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.612,2009
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.781,2010
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.951,2011
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.042,2012
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.132,2013
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.223,2014
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.314,2015
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.405,2016
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.495,2017
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.586,2018
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.679,2019
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.772,2020
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.772,2021
+IRQ,Iraq,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.772,2022
+IRQ,Iraq,gdi_group,GDI Group,GDI,Gender Development Index,5,2022
+IRQ,Iraq,gii_rank,GII Rank,GII,Gender Inequality Index,143,2022
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,474.230,1995
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,686.210,1996
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,832.835,1997
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1170.613,1998
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1357.338,1999
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1398.220,2000
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1377.867,2001
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1217.696,2002
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,802.097,2003
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1196.973,2004
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1216.326,2005
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1262.440,2006
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1668.592,2007
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1912.292,2008
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1890.875,2009
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2029.409,2010
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2073.216,2011
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2265.410,2012
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2426.283,2013
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2400.186,2014
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2588.294,2015
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2897.528,2016
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2164.078,2017
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2252.042,2018
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2335.635,2019
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2003.302,2020
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1930.380,2021
+IRQ,Iraq,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2086.880,2022
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,5624.357,1995
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,8152.385,1996
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,9540.738,1997
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,12417.706,1998
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,14031.206,1999
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,13883.274,2000
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,13745.789,2001
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,12246.190,2002
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,8130.148,2003
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,12188.379,2004
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,12239.775,2005
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,12799.669,2006
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,12836.944,2007
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,14513.969,2008
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,14401.478,2009
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,14545.078,2010
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,14915.052,2011
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,16356.210,2012
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,16498.987,2013
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,15877.348,2014
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,16051.264,2015
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,17785.275,2016
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,17648.421,2017
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,17556.657,2018
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,18132.334,2019
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,15483.212,2020
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,15419.112,2021
+IRQ,Iraq,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,16070.258,2022
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,7153.108,1990
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2399.427,1991
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2973.009,1992
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,4209.081,1993
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,3823.557,1994
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,3023.976,1995
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,4386.107,1996
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,5152.168,1997
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,6754.537,1998
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,7654.718,1999
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,7605.960,2000
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,7531.255,2001
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,6707.992,2002
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,4451.372,2003
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,6670.300,2004
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,6704.469,2005
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,7003.770,2006
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,7222.775,2007
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,8177.346,2008
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,8112.243,2009
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,8256.523,2010
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,8466.485,2011
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,9285.294,2012
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,9441.923,2013
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,9123.515,2014
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,9309.567,2015
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,10333.636,2016
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,9900.080,2017
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,9902.057,2018
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,10236.623,2019
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,8749.302,2020
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,8684.231,2021
+IRQ,Iraq,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,9091.865,2022
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.360,1995
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.391,1996
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.408,1997
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.434,1998
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.453,1999
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.460,2000
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.464,2001
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.462,2002
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.438,2003
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.468,2004
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.474,2005
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.480,2006
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.501,2007
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.513,2008
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.518,2009
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.529,2010
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.536,2011
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.544,2012
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.551,2013
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.554,2014
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.561,2015
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.574,2016
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.562,2017
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.567,2018
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.573,2019
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.558,2020
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.560,2021
+IRQ,Iraq,hdi_f,HDI female,GDI,Gender Development Index,0.569,2022
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.585,1995
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.607,1996
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.615,1997
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.629,1998
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.640,1999
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.645,2000
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.650,2001
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.649,2002
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.623,2003
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.640,2004
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.641,2005
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.636,2006
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.639,2007
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.660,2008
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.675,2009
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.681,2010
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.689,2011
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.697,2012
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.700,2013
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.704,2014
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.710,2015
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.707,2016
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.717,2017
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.727,2018
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.730,2019
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.711,2020
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.717,2021
+IRQ,Iraq,hdi_m,HDI male,GDI,Gender Development Index,0.724,2022
+IRQ,Iraq,hdi_rank,HDI Rank,HDI,Human Development Index,128,2022
+IRQ,Iraq,housing,Housing (%),MPI,Multidimensional Poverty Index,2.249,2018
+IRQ,Iraq,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,30.631,2011
+IRQ,Iraq,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,30.631,2012
+IRQ,Iraq,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,30.631,2013
+IRQ,Iraq,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,30.631,2014
+IRQ,Iraq,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,30.631,2015
+IRQ,Iraq,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,30.631,2016
+IRQ,Iraq,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,30.631,2017
+IRQ,Iraq,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,29.746,2018
+IRQ,Iraq,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,29.746,2019
+IRQ,Iraq,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,29.746,2020
+IRQ,Iraq,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,29.746,2021
+IRQ,Iraq,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,29.746,2022
+IRQ,Iraq,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.400,2010
+IRQ,Iraq,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.400,2011
+IRQ,Iraq,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.400,2012
+IRQ,Iraq,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.475,2013
+IRQ,Iraq,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.475,2014
+IRQ,Iraq,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.475,2015
+IRQ,Iraq,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.475,2016
+IRQ,Iraq,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.475,2017
+IRQ,Iraq,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.475,2018
+IRQ,Iraq,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.475,2019
+IRQ,Iraq,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.475,2020
+IRQ,Iraq,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.475,2021
+IRQ,Iraq,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,25.475,2022
+IRQ,Iraq,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,19.102,2010
+IRQ,Iraq,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,18.521,2011
+IRQ,Iraq,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,18.051,2012
+IRQ,Iraq,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,17.770,2013
+IRQ,Iraq,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,17.040,2014
+IRQ,Iraq,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,16.598,2015
+IRQ,Iraq,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,16.608,2016
+IRQ,Iraq,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,15.840,2017
+IRQ,Iraq,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,15.086,2018
+IRQ,Iraq,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,14.846,2019
+IRQ,Iraq,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,14.413,2020
+IRQ,Iraq,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,13.982,2021
+IRQ,Iraq,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,12.639,2022
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,58.435,1990
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,62.519,1991
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,66.708,1992
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,66.897,1993
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,66.744,1994
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,66.464,1995
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,66.391,1996
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,65.837,1997
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,65.486,1998
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,66.182,1999
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,66.817,2000
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,67.034,2001
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,67.084,2002
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,65.643,2003
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,65.031,2004
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,64.844,2005
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,63.587,2006
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,63.553,2007
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,64.942,2008
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,66.446,2009
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,67.062,2010
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,67.659,2011
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,68.023,2012
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,68.253,2013
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,68.914,2014
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,69.44,2015
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,68.988,2016
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,70.413,2017
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,71.514,2018
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,71.576,2019
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,69.123,2020
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,70.378,2021
+IRQ,Iraq,le,Life Expectancy at Birth (years),HDI,Human Development Index,71.336,2022
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,63.701,1990
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,66.696,1991
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.376,1992
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.708,1993
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.542,1994
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.165,1995
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.842,1996
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.321,1997
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,67.868,1998
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.002,1999
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.849,2000
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.965,2001
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,70.114,2002
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.925,2003
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.917,2004
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.873,2005
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.549,2006
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.422,2007
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.351,2008
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.589,2009
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,70.145,2010
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,70.348,2011
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,70.518,2012
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,70.702,2013
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,71.175,2014
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,71.213,2015
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,72.38,2016
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,73.235,2017
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,73.293,2018
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,73.428,2019
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,71.185,2020
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,72.422,2021
+IRQ,Iraq,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,73.362,2022
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,53.542,1990
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,58.436,1991
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.916,1992
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.974,1993
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.841,1994
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.66,1995
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.825,1996
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.254,1997
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.004,1998
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.295,1999
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.734,2000
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,64.041,2001
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,64.005,2002
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,61.525,2003
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,60.435,2004
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,60.137,2005
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,58.189,2006
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,58.215,2007
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,60.716,2008
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.266,2009
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.929,2010
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,64.876,2011
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,65.418,2012
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,65.694,2013
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,66.522,2014
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,67.515,2015
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,65.614,2016
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,67.513,2017
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,69.559,2018
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,69.559,2019
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,66.954,2020
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,68.2,2021
+IRQ,Iraq,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,69.162,2022
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,8.26,1995
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,8.26,1996
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,8.75,1997
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,9.27,1998
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,9.51,1999
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,9.73,2000
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,9.81,2001
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,9.78,2002
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,9.7,2003
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,9.55,2004
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,9.81,2005
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,9.6,2006
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,12.22,2007
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,12.16,2008
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,12.09,2009
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,12.03,2010
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,11.96,2011
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,11.9,2012
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,12.76,2013
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,13.61,2014
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,14.08,2015
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,14.55,2016
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,11.18,2017
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,11.08,2018
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,10.98,2019
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,10.87,2020
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,10.77,2021
+IRQ,Iraq,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,10.77,2022
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.28,1995
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.28,1996
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.28,1997
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.2,1998
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.06,1999
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.63,2000
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.57,2001
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.87,2002
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.78,2003
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.92,2004
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.05,2005
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.04,2006
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.3,2007
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.13,2008
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.95,2009
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.78,2010
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.6,2011
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.43,2012
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.03,2013
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.62,2014
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.36,2015
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.09,2016
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.42,2017
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.38,2018
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.33,2019
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,69.29,2020
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.24,2021
+IRQ,Iraq,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,68.24,2022
+IRQ,Iraq,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,25.118,2011
+IRQ,Iraq,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,24.845,2012
+IRQ,Iraq,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,24.846,2013
+IRQ,Iraq,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,24.578,2014
+IRQ,Iraq,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,24.390,2015
+IRQ,Iraq,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,24.508,2016
+IRQ,Iraq,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,24.288,2017
+IRQ,Iraq,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,23.626,2018
+IRQ,Iraq,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,23.599,2019
+IRQ,Iraq,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,23.449,2020
+IRQ,Iraq,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,23.388,2021
+IRQ,Iraq,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,22.883,2022
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.294,1990
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.806,1991
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.696,1992
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.093,1993
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.435,1994
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.022,1995
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.564,1996
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.189,1997
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.514,1998
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.290,1999
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.925,2000
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.253,2001
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.204,2002
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.060,2003
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.714,2004
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.014,2005
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.497,2006
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.307,2007
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.015,2008
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.618,2009
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,8.589,2010
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,9.175,2011
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.634,2012
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,7.338,2013
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,6.301,2014
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.529,2015
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.456,2016
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.896,2017
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.303,2018
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.988,2019
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.882,2020
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.037,2021
+IRQ,Iraq,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,5.227,2022
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,260.685,1990
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,208.974,1991
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,165.934,1992
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,164.498,1993
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,164.822,1994
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,165.606,1995
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,172.444,1996
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,177.223,1997
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,185.405,1998
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,146.688,1999
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,116.939,2000
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,115.045,2001
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,112.284,2002
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,118.264,2003
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,118.459,2004
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,115.628,2005
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,122.302,2006
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,127.840,2007
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,130.548,2008
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,125.899,2009
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,114.876,2010
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,111.300,2011
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,111.076,2012
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,109.779,2013
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,98.375,2014
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,101.939,2015
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,84.634,2016
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,77.688,2017
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,71.928,2018
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,72.779,2019
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,76.110,2020
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,76.110,2021
+IRQ,Iraq,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,76.110,2022
+IRQ,Iraq,mpi_rank,MPI Value (Range: 0 to 1),MPI,Multidimensional Poverty Index,0.033,2018
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.580,1990
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.800,1991
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.020,1992
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.240,1993
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.460,1994
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.680,1995
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.875,1996
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.070,1997
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.266,1998
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.461,1999
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.656,2000
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.738,2001
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.821,2002
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.903,2003
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.985,2004
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.067,2005
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.149,2006
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.227,2007
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.304,2008
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.382,2009
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.460,2010
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.537,2011
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.559,2012
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.580,2013
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.602,2014
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.623,2015
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.645,2016
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.666,2017
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.688,2018
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.750,2019
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.812,2020
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.812,2021
+IRQ,Iraq,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.812,2022
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.165,1990
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.372,1991
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.579,1992
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.786,1993
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.994,1994
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.201,1995
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.408,1996
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.616,1997
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.823,1998
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.030,1999
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.237,2000
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.322,2001
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.407,2002
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.491,2003
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.576,2004
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.661,2005
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.746,2006
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.851,2007
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.956,2008
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.062,2009
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.167,2010
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.273,2011
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.297,2012
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.322,2013
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.346,2014
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.371,2015
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.395,2016
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.419,2017
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.444,2018
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.546,2019
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.648,2020
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.648,2021
+IRQ,Iraq,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.648,2022
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.074,1990
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.309,1991
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.543,1992
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.778,1993
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.013,1994
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.248,1995
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.432,1996
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.616,1997
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.800,1998
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.983,1999
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.167,2000
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.235,2001
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.303,2002
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.371,2003
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.439,2004
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.507,2005
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.575,2006
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.632,2007
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.688,2008
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.745,2009
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.802,2010
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.858,2011
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.875,2012
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.891,2013
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.908,2014
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.924,2015
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.941,2016
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.957,2017
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.974,2018
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.985,2019
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.996,2020
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.996,2021
+IRQ,Iraq,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.996,2022
+IRQ,Iraq,nutrition,Nutrition (%),MPI,Multidimensional Poverty Index,25.697,2018
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,6.4,1990
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,6.4,1991
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,6.4,1992
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,6.4,1993
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,6.4,1994
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,6.4,1995
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,6.4,1996
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,6.4,1997
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,6.4,1998
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,6.4,1999
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.6,2000
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.6,2001
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.6,2002
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.6,2003
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.6,2004
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.6,2005
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.455,2006
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.455,2007
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.455,2008
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.455,2009
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.231,2010
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.231,2011
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.231,2012
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.231,2013
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.305,2014
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,26.524,2015
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,26.524,2016
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.305,2017
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.228,2018
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,25.228,2019
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,26.444,2020
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,28.875,2021
+IRQ,Iraq,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,28.875,2022
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,93.6,1990
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,93.6,1991
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,93.6,1992
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,93.6,1993
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,93.6,1994
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,93.6,1995
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,93.6,1996
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,93.6,1997
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,93.6,1998
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,93.6,1999
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.4,2000
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.4,2001
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.4,2002
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.4,2003
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.4,2004
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.4,2005
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.545,2006
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.545,2007
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.545,2008
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.545,2009
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.769,2010
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.769,2011
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.769,2012
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.769,2013
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.695,2014
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,73.476,2015
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,73.476,2016
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.695,2017
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.772,2018
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,74.772,2019
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,73.556,2020
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,71.125,2021
+IRQ,Iraq,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,71.125,2022
+IRQ,Iraq,rankdiff_hdi_phdi,Difference from HDI rank,PHDI,Planetary pressures–adjusted Human Development Index,5,2022
+IRQ,Iraq,sanitation,Sanitation (%),MPI,Multidimensional Poverty Index,2.397,2018
+IRQ,Iraq,school_attendance,School attendance (%),MPI,Multidimensional Poverty Index,32.930,2018
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,14.141,1990
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,15.192,1991
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,16.243,1992
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,17.293,1993
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,18.344,1994
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,19.394,1995
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,20.206,1996
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,21.017,1997
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,21.828,1998
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,22.639,1999
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,23.451,2000
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,24.350,2001
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,25.250,2002
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,26.150,2003
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,27.050,2004
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,27.950,2005
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,28.511,2006
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,29.072,2007
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,29.632,2008
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,30.193,2009
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,30.754,2010
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,32.982,2011
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,35.209,2012
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,37.437,2013
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,34.803,2014
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,32.168,2015
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,29.534,2016
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,26.900,2017
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,24.266,2018
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,24.783,2019
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,25.300,2020
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,25.300,2021
+IRQ,Iraq,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,25.300,2022
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,28.329,1990
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,29.753,1991
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,31.178,1992
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,32.603,1993
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,34.027,1994
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,35.452,1995
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,36.306,1996
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,37.160,1997
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,38.014,1998
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,38.868,1999
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,39.722,2000
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,40.609,2001
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,41.496,2002
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,42.383,2003
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,43.270,2004
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,44.157,2005
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,44.510,2006
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,44.863,2007
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,45.216,2008
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,45.569,2009
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,45.922,2010
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,47.125,2011
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,48.329,2012
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,49.532,2013
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,47.737,2014
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,45.941,2015
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,44.145,2016
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,42.350,2017
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,40.554,2018
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,40.454,2019
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,40.353,2020
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,40.353,2021
+IRQ,Iraq,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,40.353,2022
+IRQ,Iraq,years_of_schooling,Years of schooling (%),MPI,Multidimensional Poverty Index,27.993,2018

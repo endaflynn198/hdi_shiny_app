@@ -1,0 +1,779 @@
+country_code,country_name,indicator_id,indicator_name,index_id,index_name,value,year
+#country+code,#country+name,#indicator+id,#indicator+name,#index+id,#index+name,#indicator+value+num,#date+year
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,140.866,1990
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,138.452,1991
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,138.666,1992
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,140.754,1993
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,140.344,1994
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,136.68,1995
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,132.575,1996
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,129.218,1997
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,128.22,1998
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,131.906,1999
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,132.063,2000
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,131.315,2001
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,133.101,2002
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,134.751,2003
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,130.599,2004
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,131.024,2005
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,126.655,2006
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,123.387,2007
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,123.818,2008
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,123.081,2009
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,123.402,2010
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,125.756,2011
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,127.692,2012
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,128.112,2013
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,124.209,2014
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,114.982,2015
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,107.474,2016
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,103.925,2017
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,103.466,2018
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,102.807,2019
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,102.215,2020
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,101.675,2021
+NGA,Nigeria,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,99.56,2022
+NGA,Nigeria,assets,Assets (%),MPI,Multidimensional Poverty Index,4.945,2021
+NGA,Nigeria,child_mortality,Child mortality (%),MPI,Multidimensional Poverty Index,19.473,2021
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.408,1990
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.429,1991
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.462,1992
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.436,1993
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.763,1994
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.780,1995
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.882,1996
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.842,1997
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.741,1998
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.710,1999
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.788,2000
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.794,2001
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.694,2002
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.752,2003
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.693,2004
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.722,2005
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.623,2006
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.553,2007
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.573,2008
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.493,2009
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.692,2010
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.758,2011
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.641,2012
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.666,2013
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.686,2014
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.594,2015
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.620,2016
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.583,2017
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.532,2018
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.626,2019
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.594,2020
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.614,2021
+NGA,Nigeria,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,0.614,2022
+NGA,Nigeria,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,35.981,2011
+NGA,Nigeria,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,35.878,2012
+NGA,Nigeria,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,35.139,2013
+NGA,Nigeria,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,35.066,2014
+NGA,Nigeria,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,34.990,2015
+NGA,Nigeria,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,33.153,2016
+NGA,Nigeria,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,33.032,2017
+NGA,Nigeria,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,33.658,2018
+NGA,Nigeria,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,33.329,2019
+NGA,Nigeria,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,33.084,2020
+NGA,Nigeria,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,32.021,2021
+NGA,Nigeria,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,32.067,2022
+NGA,Nigeria,cooking_fuel,Cooking fuel (%),MPI,Multidimensional Poverty Index,10.114,2021
+NGA,Nigeria,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.559,2003
+NGA,Nigeria,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.735,2004
+NGA,Nigeria,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.709,2005
+NGA,Nigeria,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.684,2006
+NGA,Nigeria,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.670,2007
+NGA,Nigeria,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.660,2008
+NGA,Nigeria,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.440,2009
+NGA,Nigeria,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.844,2010
+NGA,Nigeria,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.822,2011
+NGA,Nigeria,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.804,2012
+NGA,Nigeria,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.984,2013
+NGA,Nigeria,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.949,2014
+NGA,Nigeria,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.923,2015
+NGA,Nigeria,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.901,2016
+NGA,Nigeria,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.894,2017
+NGA,Nigeria,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.887,2018
+NGA,Nigeria,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,2.048,2019
+NGA,Nigeria,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.855,2020
+NGA,Nigeria,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.661,2021
+NGA,Nigeria,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressures–adjusted Human Development Index,1.642,2022
+NGA,Nigeria,drinking_water,Drinking water (%),MPI,Multidimensional Poverty Index,5.784,2021
+NGA,Nigeria,electricity,Electricity (%),MPI,Multidimensional Poverty Index,7.900,2021
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,5.835,1990
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,6.015,1991
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,6.202,1992
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,6.394,1993
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,6.592,1994
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,6.796,1995
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.006,1996
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.223,1997
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.447,1998
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.677,1999
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.046,2000
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.727,2001
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.028,2002
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.471,2003
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.914,2004
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.962,2005
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.806,2006
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.650,2007
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.494,2008
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.338,2009
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.182,2010
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.471,2011
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.680,2012
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.890,2013
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.100,2014
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.309,2015
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.519,2016
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.729,2017
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.938,2018
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.130,2019
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.322,2020
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.514,2021
+NGA,Nigeria,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.514,2022
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,5.231,1990
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,5.392,1991
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,5.557,1992
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,5.727,1993
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,5.903,1994
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.084,1995
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.270,1996
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.462,1997
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.660,1998
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.865,1999
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.133,2000
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.926,2001
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.272,2002
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.619,2003
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.966,2004
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.075,2005
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.003,2006
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.932,2007
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.860,2008
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.789,2009
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.717,2010
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.951,2011
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.157,2012
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.363,2013
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.570,2014
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.776,2015
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.982,2016
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.189,2017
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.395,2018
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.665,2019
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.935,2020
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.204,2021
+NGA,Nigeria,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.204,2022
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,6.427,1990
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,6.628,1991
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,6.834,1992
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,7.047,1993
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,7.267,1994
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,7.494,1995
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,7.727,1996
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,7.968,1997
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.216,1998
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.473,1999
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.938,2000
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.509,2001
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.953,2002
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.397,2003
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.840,2004
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.827,2005
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.588,2006
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.350,2007
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.111,2008
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.873,2009
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.634,2010
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,8.975,2011
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.205,2012
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.435,2013
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.665,2014
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.895,2015
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.125,2016
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.355,2017
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.585,2018
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.669,2019
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.753,2020
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.837,2021
+NGA,Nigeria,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.837,2022
+NGA,Nigeria,gdi_group,GDI Group,GDI,Gender Development Index,5,2022
+NGA,Nigeria,gii_rank,GII Rank,GII,Gender Inequality Index,165,2022
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1840.262,1990
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1852.951,1991
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1763.769,1992
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1668.010,1993
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1712.892,1994
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1820.117,1995
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1858.124,1996
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1867.637,1997
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1893.559,1998
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1909.614,1999
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,1853.583,2000
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2028.303,2001
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2272.739,2002
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2328.644,2003
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2597.527,2004
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2666.714,2005
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,2983.756,2006
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,3053.703,2007
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,3224.501,2008
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,3418.819,2009
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,3762.088,2010
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,4275.834,2011
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,3976.922,2012
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,4014.496,2013
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,4477.339,2014
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,4523.682,2015
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,4444.659,2016
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,4383.246,2017
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,3832.440,2018
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,3346.055,2019
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,3759.098,2020
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,3877.022,2021
+NGA,Nigeria,gni_pc_f,"Gross National Income Per Capita, female (2017 PPP$)",GDI,Gender Development Index,4110.222,2022
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,4283.388,1990
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,4148.818,1991
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,4267.109,1992
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,3966.620,1993
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,3799.525,1994
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,3637.310,1995
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,3707.959,1996
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,3742.523,1997
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,3687.319,1998
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,3694.887,1999
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,3425.580,2000
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,3656.802,2001
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,4052.229,2002
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,4192.822,2003
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,4377.523,2004
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,4501.137,2005
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,4924.637,2006
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,4931.888,2007
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,5099.222,2008
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,5296.848,2009
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,5356.237,2010
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,5082.625,2011
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,5544.747,2012
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,5889.169,2013
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,5956.335,2014
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,6009.341,2015
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,5716.676,2016
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,5532.693,2017
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,5880.490,2018
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,6450.983,2019
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,5590.943,2020
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,5537.470,2021
+NGA,Nigeria,gni_pc_m,"Gross National Income Per Capita, male (2017 PPP$)",GDI,Gender Development Index,5385.706,2022
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,3067.329,1990
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,3006.151,1991
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,3021.146,1992
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2822.598,1993
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2761.122,1994
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2733.064,1995
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2787.431,1996
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2809.535,1997
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2794.825,1998
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2806.780,1999
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2643.707,2000
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,2846.998,2001
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,3167.527,2002
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,3266.152,2003
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,3492.818,2004
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,3589.479,2005
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,3960.198,2006
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,3998.798,2007
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,4168.108,2008
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,4364.407,2009
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,4565.006,2010
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,4682.315,2011
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,4767.065,2012
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,4959.535,2013
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,5223.104,2014
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,5273.015,2015
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,5086.456,2016
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,4963.405,2017
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,4866.492,2018
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,4914.228,2019
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,4684.512,2020
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,4716.010,2021
+NGA,Nigeria,gnipc,Gross National Income Per Capita (2017 PPP$),HDI,Human Development Index,4754.836,2022
+NGA,Nigeria,hdi_f,HDI female,GDI,Gender Development Index,0.401,2003
+NGA,Nigeria,hdi_f,HDI female,GDI,Gender Development Index,0.414,2004
+NGA,Nigeria,hdi_f,HDI female,GDI,Gender Development Index,0.422,2005
+NGA,Nigeria,hdi_f,HDI female,GDI,Gender Development Index,0.431,2006
+NGA,Nigeria,hdi_f,HDI female,GDI,Gender Development Index,0.435,2007
+NGA,Nigeria,hdi_f,HDI female,GDI,Gender Development Index,0.440,2008
+NGA,Nigeria,hdi_f,HDI female,GDI,Gender Development Index,0.445,2009
+NGA,Nigeria,hdi_f,HDI female,GDI,Gender Development Index,0.449,2010
+NGA,Nigeria,hdi_f,HDI female,GDI,Gender Development Index,0.460,2011
+NGA,Nigeria,hdi_f,HDI female,GDI,Gender Development Index,0.460,2012
+NGA,Nigeria,hdi_f,HDI female,GDI,Gender Development Index,0.464,2013
+NGA,Nigeria,hdi_f,HDI female,GDI,Gender Development Index,0.475,2014
+NGA,Nigeria,hdi_f,HDI female,GDI,Gender Development Index,0.481,2015
+NGA,Nigeria,hdi_f,HDI female,GDI,Gender Development Index,0.486,2016
+NGA,Nigeria,hdi_f,HDI female,GDI,Gender Development Index,0.491,2017
+NGA,Nigeria,hdi_f,HDI female,GDI,Gender Development Index,0.489,2018
+NGA,Nigeria,hdi_f,HDI female,GDI,Gender Development Index,0.488,2019
+NGA,Nigeria,hdi_f,HDI female,GDI,Gender Development Index,0.501,2020
+NGA,Nigeria,hdi_f,HDI female,GDI,Gender Development Index,0.507,2021
+NGA,Nigeria,hdi_f,HDI female,GDI,Gender Development Index,0.515,2022
+NGA,Nigeria,hdi_m,HDI male,GDI,Gender Development Index,0.493,2003
+NGA,Nigeria,hdi_m,HDI male,GDI,Gender Development Index,0.504,2004
+NGA,Nigeria,hdi_m,HDI male,GDI,Gender Development Index,0.510,2005
+NGA,Nigeria,hdi_m,HDI male,GDI,Gender Development Index,0.517,2006
+NGA,Nigeria,hdi_m,HDI male,GDI,Gender Development Index,0.519,2007
+NGA,Nigeria,hdi_m,HDI male,GDI,Gender Development Index,0.522,2008
+NGA,Nigeria,hdi_m,HDI male,GDI,Gender Development Index,0.524,2009
+NGA,Nigeria,hdi_m,HDI male,GDI,Gender Development Index,0.524,2010
+NGA,Nigeria,hdi_m,HDI male,GDI,Gender Development Index,0.528,2011
+NGA,Nigeria,hdi_m,HDI male,GDI,Gender Development Index,0.536,2012
+NGA,Nigeria,hdi_m,HDI male,GDI,Gender Development Index,0.542,2013
+NGA,Nigeria,hdi_m,HDI male,GDI,Gender Development Index,0.551,2014
+NGA,Nigeria,hdi_m,HDI male,GDI,Gender Development Index,0.559,2015
+NGA,Nigeria,hdi_m,HDI male,GDI,Gender Development Index,0.567,2016
+NGA,Nigeria,hdi_m,HDI male,GDI,Gender Development Index,0.566,2017
+NGA,Nigeria,hdi_m,HDI male,GDI,Gender Development Index,0.570,2018
+NGA,Nigeria,hdi_m,HDI male,GDI,Gender Development Index,0.585,2019
+NGA,Nigeria,hdi_m,HDI male,GDI,Gender Development Index,0.578,2020
+NGA,Nigeria,hdi_m,HDI male,GDI,Gender Development Index,0.577,2021
+NGA,Nigeria,hdi_m,HDI male,GDI,Gender Development Index,0.581,2022
+NGA,Nigeria,hdi_rank,HDI Rank,HDI,Human Development Index,161,2022
+NGA,Nigeria,housing,Housing (%),MPI,Multidimensional Poverty Index,7.849,2021
+NGA,Nigeria,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,45.243,2010
+NGA,Nigeria,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,45.243,2011
+NGA,Nigeria,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,45.243,2012
+NGA,Nigeria,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,43.297,2013
+NGA,Nigeria,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,43.297,2014
+NGA,Nigeria,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,43.297,2015
+NGA,Nigeria,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,38.095,2016
+NGA,Nigeria,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,38.095,2017
+NGA,Nigeria,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,40.415,2018
+NGA,Nigeria,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,40.415,2019
+NGA,Nigeria,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,40.415,2020
+NGA,Nigeria,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,37.831,2021
+NGA,Nigeria,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,37.831,2022
+NGA,Nigeria,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,19.078,2011
+NGA,Nigeria,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,19.078,2012
+NGA,Nigeria,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,19.078,2013
+NGA,Nigeria,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,19.078,2014
+NGA,Nigeria,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,19.078,2015
+NGA,Nigeria,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,19.078,2016
+NGA,Nigeria,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,19.078,2017
+NGA,Nigeria,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,19.078,2018
+NGA,Nigeria,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,18.625,2019
+NGA,Nigeria,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,18.625,2020
+NGA,Nigeria,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,18.625,2021
+NGA,Nigeria,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,18.625,2022
+NGA,Nigeria,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,44.023,2010
+NGA,Nigeria,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,43.623,2011
+NGA,Nigeria,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,43.312,2012
+NGA,Nigeria,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,43.042,2013
+NGA,Nigeria,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,42.823,2014
+NGA,Nigeria,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,42.594,2015
+NGA,Nigeria,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,42.286,2016
+NGA,Nigeria,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,41.925,2017
+NGA,Nigeria,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,41.480,2018
+NGA,Nigeria,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,40.945,2019
+NGA,Nigeria,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,40.211,2020
+NGA,Nigeria,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,39.606,2021
+NGA,Nigeria,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,39.745,2022
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,46.037,1990
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,45.691,1991
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,45.668,1992
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,45.788,1993
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,45.513,1994
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,45.487,1995
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,45.567,1996
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,45.792,1997
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,46.036,1998
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,46.614,1999
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,47.193,2000
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,47.619,2001
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,47.928,2002
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,48.441,2003
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,48.767,2004
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,49.297,2005
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,49.73,2006
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,50.033,2007
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,50.225,2008
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,50.712,2009
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,50.945,2010
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,51.357,2011
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,51.497,2012
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,51.707,2013
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,51.791,2014
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,51.841,2015
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,52.043,2016
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,52.305,2017
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,52.554,2018
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,52.91,2019
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,52.887,2020
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,52.676,2021
+NGA,Nigeria,le,Life Expectancy at Birth (years),HDI,Human Development Index,53.633,2022
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,47.554,1990
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,47.27,1991
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,47.28,1992
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,47.438,1993
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,47.026,1994
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,47.056,1995
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,47.171,1996
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,47.273,1997
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,47.226,1998
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,47.826,1999
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,48.328,2000
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,48.689,2001
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,49.024,2002
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,49.54,2003
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,49.78,2004
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,50.255,2005
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,50.575,2006
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,50.819,2007
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,50.773,2008
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,51.242,2009
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,51.404,2010
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,51.791,2011
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,51.896,2012
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,52.115,2013
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,52.196,2014
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,52.202,2015
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,52.229,2016
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,52.589,2017
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,52.77,2018
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,53.165,2019
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,53.323,2020
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,53.07,2021
+NGA,Nigeria,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,53.968,2022
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,44.597,1990
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,44.197,1991
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,44.145,1992
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,44.232,1993
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,44.079,1994
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,44.004,1995
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,44.052,1996
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,44.385,1997
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,44.89,1998
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,45.446,1999
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,46.095,2000
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,46.58,2001
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,46.867,2002
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,47.377,2003
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,47.785,2004
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,48.362,2005
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,48.901,2006
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,49.258,2007
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,49.678,2008
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,50.182,2009
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,50.483,2010
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,50.92,2011
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,51.094,2012
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,51.295,2013
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,51.383,2014
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,51.477,2015
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,51.848,2016
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,52.017,2017
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,52.331,2018
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,52.651,2019
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,52.456,2020
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,52.285,2021
+NGA,Nigeria,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,53.295,2022
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,40.3,1990
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,40.3,1991
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,39.42,1992
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,40.55,1993
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,45.37,1994
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,49.1,1995
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.85,1996
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.57,1997
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.21,1998
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.08,1999
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.19,2000
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,54.73,2001
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.85,2002
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,54.48,2003
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.45,2004
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,49.66,2005
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,50.86,2006
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52.07,2007
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.28,2008
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,54.49,2009
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.69,2010
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,56.9,2011
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,56.67,2012
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,56.43,2013
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.72,2014
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55,2015
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,54.29,2016
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.57,2017
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52.86,2018
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52.14,2019
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,60.44,2020
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,68.74,2021
+NGA,Nigeria,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,77.04,2022
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.2,1990
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,71.2,1991
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.39,1992
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,73.21,1993
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.4,1994
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.49,1995
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.01,1996
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,73.89,1997
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.24,1998
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,73.57,1999
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.63,2000
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.92,2001
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.61,2002
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,74.49,2003
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.54,2004
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.64,2005
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.73,2006
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.83,2007
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.93,2008
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.03,2009
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.12,2010
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.22,2011
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.84,2012
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.45,2013
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,63.83,2014
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.21,2015
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.59,2016
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,64.96,2017
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,65.34,2018
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,65.72,2019
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,72.37,2020
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,79.01,2021
+NGA,Nigeria,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,85.66,2022
+NGA,Nigeria,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,37.045,2011
+NGA,Nigeria,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,36.874,2012
+NGA,Nigeria,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,36.111,2013
+NGA,Nigeria,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,35.867,2014
+NGA,Nigeria,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,35.769,2015
+NGA,Nigeria,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,33.840,2016
+NGA,Nigeria,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,33.712,2017
+NGA,Nigeria,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,34.340,2018
+NGA,Nigeria,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,34.078,2019
+NGA,Nigeria,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,33.766,2020
+NGA,Nigeria,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,32.657,2021
+NGA,Nigeria,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,32.664,2022
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.843,1990
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.178,1991
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.226,1992
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.171,1993
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.138,1994
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.278,1995
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.367,1996
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.262,1997
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.21,1998
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.924,1999
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.608,2000
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.837,2001
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,2.949,2002
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.208,2003
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.426,2004
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.474,2005
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.500,2006
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.632,2007
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.546,2008
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.196,2009
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.933,2010
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.976,2011
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.780,2012
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.214,2013
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.468,2014
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.274,2015
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.271,2016
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.129,2017
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.456,2018
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.476,2019
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,4.022,2020
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.662,2021
+NGA,Nigeria,mf,Material footprint per capita (tonnes),PHDI,Planetary pressures–adjusted Human Development Index,3.673,2022
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1208.878,1990
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1217.477,1991
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1209.226,1992
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1189.851,1993
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1223.375,1994
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1170.970,1995
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1174.152,1996
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1186.331,1997
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1219.528,1998
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1177.452,1999
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1147.546,2000
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1126.946,2001
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1112.006,2002
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1083.837,2003
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1088.148,2004
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1073.134,2005
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1070.866,2006
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1080.519,2007
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1099.432,2008
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1100.894,2009
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1122.671,2010
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1069.750,2011
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1087.432,2012
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1108.980,2013
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1135.279,2014
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1113.403,2015
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1129.183,2016
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1126.909,2017
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1135.414,2018
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1122.113,2019
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1047.235,2020
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1047.235,2021
+NGA,Nigeria,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,1047.235,2022
+NGA,Nigeria,mpi_rank,MPI Value (Range: 0 to 1),MPI,Multidimensional Poverty Index,0.175,2021
+NGA,Nigeria,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.725,2003
+NGA,Nigeria,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.933,2004
+NGA,Nigeria,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.142,2005
+NGA,Nigeria,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.351,2006
+NGA,Nigeria,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.559,2007
+NGA,Nigeria,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.768,2008
+NGA,Nigeria,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.804,2009
+NGA,Nigeria,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.840,2010
+NGA,Nigeria,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.875,2011
+NGA,Nigeria,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.911,2012
+NGA,Nigeria,mys,Mean Years of Schooling (years),HDI,Human Development Index,5.947,2013
+NGA,Nigeria,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.296,2014
+NGA,Nigeria,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.646,2015
+NGA,Nigeria,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.995,2016
+NGA,Nigeria,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.957,2017
+NGA,Nigeria,mys,Mean Years of Schooling (years),HDI,Human Development Index,6.919,2018
+NGA,Nigeria,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.192,2019
+NGA,Nigeria,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.389,2020
+NGA,Nigeria,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.586,2021
+NGA,Nigeria,mys,Mean Years of Schooling (years),HDI,Human Development Index,7.586,2022
+NGA,Nigeria,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.459,2003
+NGA,Nigeria,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.695,2004
+NGA,Nigeria,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.930,2005
+NGA,Nigeria,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.166,2006
+NGA,Nigeria,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.402,2007
+NGA,Nigeria,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.637,2008
+NGA,Nigeria,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.682,2009
+NGA,Nigeria,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.727,2010
+NGA,Nigeria,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.771,2011
+NGA,Nigeria,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.816,2012
+NGA,Nigeria,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,4.861,2013
+NGA,Nigeria,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.122,2014
+NGA,Nigeria,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.384,2015
+NGA,Nigeria,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.645,2016
+NGA,Nigeria,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.750,2017
+NGA,Nigeria,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.854,2018
+NGA,Nigeria,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,5.857,2019
+NGA,Nigeria,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.207,2020
+NGA,Nigeria,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.556,2021
+NGA,Nigeria,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,6.556,2022
+NGA,Nigeria,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.025,2003
+NGA,Nigeria,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.205,2004
+NGA,Nigeria,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.385,2005
+NGA,Nigeria,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.565,2006
+NGA,Nigeria,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.746,2007
+NGA,Nigeria,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.926,2008
+NGA,Nigeria,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.954,2009
+NGA,Nigeria,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,6.982,2010
+NGA,Nigeria,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.010,2011
+NGA,Nigeria,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.039,2012
+NGA,Nigeria,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.067,2013
+NGA,Nigeria,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.533,2014
+NGA,Nigeria,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,7.999,2015
+NGA,Nigeria,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.466,2016
+NGA,Nigeria,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.234,2017
+NGA,Nigeria,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.003,2018
+NGA,Nigeria,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.738,2019
+NGA,Nigeria,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.719,2020
+NGA,Nigeria,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.700,2021
+NGA,Nigeria,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,8.700,2022
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,3.268,2000
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,3.268,2001
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,3.268,2002
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.283,2003
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.264,2004
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,5.757,2005
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,5.544,2006
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.281,2007
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.281,2008
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.281,2009
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.281,2010
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,6.725,2011
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,6.610,2012
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,6.610,2013
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,6.610,2014
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,5.769,2015
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,5.769,2016
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,5.769,2017
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,5.769,2018
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.113,2019
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.478,2020
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.478,2021
+NGA,Nigeria,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.478,2022
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,96.732,2000
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,96.732,2001
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,96.732,2002
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.717,2003
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.736,2004
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,94.243,2005
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,94.456,2006
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.719,2007
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.719,2008
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.719,2009
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.719,2010
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,93.275,2011
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,93.390,2012
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,93.390,2013
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,93.390,2014
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,94.231,2015
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,94.231,2016
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,94.231,2017
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,94.231,2018
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.887,2019
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.522,2020
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.522,2021
+NGA,Nigeria,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.522,2022
+NGA,Nigeria,rankdiff_hdi_phdi,Difference from HDI rank,PHDI,Planetary pressures–adjusted Human Development Index,-1,2022
+NGA,Nigeria,sanitation,Sanitation (%),MPI,Multidimensional Poverty Index,8.405,2021
+NGA,Nigeria,school_attendance,School attendance (%),MPI,Multidimensional Poverty Index,19.654,2021
+NGA,Nigeria,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,36.362,2003
+NGA,Nigeria,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,38.674,2004
+NGA,Nigeria,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,40.986,2005
+NGA,Nigeria,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,43.298,2006
+NGA,Nigeria,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,42.510,2007
+NGA,Nigeria,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,41.722,2008
+NGA,Nigeria,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,40.933,2009
+NGA,Nigeria,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,40.145,2010
+NGA,Nigeria,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,39.357,2011
+NGA,Nigeria,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,38.568,2012
+NGA,Nigeria,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,37.780,2013
+NGA,Nigeria,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,36.992,2014
+NGA,Nigeria,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,36.203,2015
+NGA,Nigeria,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,35.415,2016
+NGA,Nigeria,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,36.215,2017
+NGA,Nigeria,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,37.016,2018
+NGA,Nigeria,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,34.904,2019
+NGA,Nigeria,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,38.647,2020
+NGA,Nigeria,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,42.390,2021
+NGA,Nigeria,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,42.390,2022
+NGA,Nigeria,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,50.901,2003
+NGA,Nigeria,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,52.390,2004
+NGA,Nigeria,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,53.879,2005
+NGA,Nigeria,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,55.368,2006
+NGA,Nigeria,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,55.438,2007
+NGA,Nigeria,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,55.509,2008
+NGA,Nigeria,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,55.579,2009
+NGA,Nigeria,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,55.650,2010
+NGA,Nigeria,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,55.720,2011
+NGA,Nigeria,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,55.790,2012
+NGA,Nigeria,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,55.861,2013
+NGA,Nigeria,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,55.931,2014
+NGA,Nigeria,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,56.002,2015
+NGA,Nigeria,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,56.072,2016
+NGA,Nigeria,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,54.332,2017
+NGA,Nigeria,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,52.593,2018
+NGA,Nigeria,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,55.985,2019
+NGA,Nigeria,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,56.900,2020
+NGA,Nigeria,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,57.814,2021
+NGA,Nigeria,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,57.814,2022
+NGA,Nigeria,years_of_schooling,Years of schooling (%),MPI,Multidimensional Poverty Index,15.876,2021
